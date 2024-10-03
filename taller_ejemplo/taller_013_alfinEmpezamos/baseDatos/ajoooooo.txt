@@ -1,0 +1,2 @@
+
+StringProperty [bean: edu.poo.modelo.Carro@4afea8ea, name: marca, value: pepe];StringProperty [bean: edu.poo.modelo.Carro@4afea8ea, name: modelo, value: vegetea777];StringProperty [bean: edu.poo.modelo.Carro@4afea8ea, name: descripcion, value: rgregrwg]@
